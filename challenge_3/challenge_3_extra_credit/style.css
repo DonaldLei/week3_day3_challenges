@@ -11,4 +11,19 @@ img {
 	margin: auto;
 	border: 5px solid black;
 	width: 516px;
+	
+
+}
+#big_div #b{
+	display:flex;
+	justify-content:space-between;
+}
+#big_div #c{
+	display:flex;
+	flex-direction: column;
+}
+
+#big_div #d{
+	display:flex;
+	flex-direction:column;
 }
